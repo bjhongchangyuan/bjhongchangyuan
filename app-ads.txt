@@ -1,0 +1,69 @@
+# app-ads.txt for Beijing Hongchangyuan Travel Service Co., Ltd.
+# This file is used to verify authorized digital advertising sellers for our mobile applications
+# Last updated: November 15, 2024
+
+# Google AdMob
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+
+# Facebook Audience Network
+facebook.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Unity Ads
+unity3d.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# AppLovin
+applovin.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# IronSource
+ironsrc.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# AdColony
+adcolony.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Chartboost
+chartboost.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Vungle
+vungle.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# MoPub (Twitter)
+mopub.com, XXXXXXXXXXXX, DIRECT
+
+# InMobi
+inmobi.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Smaato
+smaato.net, XXXXXXXXXXXX, DIRECT
+
+# OpenX
+openx.net, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Index Exchange
+indexexchange.com, XXXXXXXXXXXX, DIRECT
+
+# Amazon Ads
+amazon-adsystem.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Pangle
+bytedance.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Mintegral
+mintegral.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Tapjoy
+tapjoy.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# HyprMX
+hyprmx.com, XXXXXXXXXXXX, DIRECT, XXXXXXXXXXXXXXXX
+
+# Google Ad Manager
+googlesyndication.com, XXXXXXXXXXXX, DIRECT
+
+# Adjust (for attribution)
+adjust.com, XXXXXXXXXXXX, DIRECT
+
+# AppsFlyer
+appsflyer.com, XXXXXXXXXXXX, DIRECT
+
+# Branch
+branch.io, XXXXXXXXXXXX, DIRECT
